@@ -1,0 +1,622 @@
+[
+  {
+    "ticket_cost": 95,
+    "genre": "Rock",
+    "artist": "Foo Fighters",
+    "date": "2023-07-01",
+    "time": "19:00",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "The Foo Fighters are back with their high-energy rock performance. Don't miss this unforgettable night of music!"
+  },
+  {
+    "ticket_cost": 75,
+    "genre": "Pop",
+    "artist": "Taylor Swift",
+    "date": "2023-07-15",
+    "time": "20:00",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "description": "Taylor Swift brings her chart-topping hits and captivating stage presence to Madison Square Garden. Get ready for an incredible night!"
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Country",
+    "artist": "Keith Urban",
+    "date": "2023-07-20",
+    "time": "18:30",
+    "venue": "Scotiabank Saddledome",
+    "city": "Calgary",
+    "description": "Join Keith Urban for an evening of country music magic. Sing along to his greatest hits and experience his signature guitar solos live."
+  },
+  {
+    "ticket_cost": 120,
+    "genre": "Hip Hop",
+    "artist": "Drake",
+    "date": "2023-08-05",
+    "time": "21:00",
+    "venue": "Air Canada Centre",
+    "city": "Toronto",
+    "description": "Drake returns to his hometown for an electrifying performance. Witness his unparalleled stage presence and enjoy an unforgettable night of rap."
+  },
+  {
+    "ticket_cost": 90,
+    "genre": "Rock",
+    "artist": "Coldplay",
+    "date": "2023-08-10",
+    "time": "19:30",
+    "venue": "Rose Bowl Stadium",
+    "city": "Pasadena",
+    "description": "Coldplay's stadium-filling sound and dazzling visuals make for an epic concert experience. Prepare to be transported to another world of music."
+  },
+  {
+    "ticket_cost": 65,
+    "genre": "Pop",
+    "artist": "Ariana Grande",
+    "date": "2023-08-20",
+    "time": "20:00",
+    "venue": "Amalie Arena",
+    "city": "Tampa",
+    "description": "Ariana Grande's powerhouse vocals and captivating stage production will leave you in awe. Don't miss her incredible performance!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Country",
+    "artist": "Luke Bryan",
+    "date": "2023-09-02",
+    "time": "19:00",
+    "venue": "PNC Music Pavilion",
+    "city": "Charlotte",
+    "description": "Luke Bryan brings his high-energy country show to Charlotte. Get ready for a boot-stomping good time!"
+  },
+  {
+    "ticket_cost": 150,
+    "genre": "Hip Hop",
+    "artist": "Kendrick Lamar",
+    "date": "2023-09-10",
+    "time": "20:30",
+    "venue": "Rogers Arena",
+    "city": "Vancouver",
+    "description": "Kendrick Lamar's thought-provoking lyrics and dynamic stage presence will captivate the audience. Be part of an unforgettable hip hop experience."
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Rock",
+    "artist": "Red Hot Chili Peppers",
+    "date": "2023-09-15",
+    "time": "21:00",
+    "venue": "American Airlines Center",
+    "city": "Dallas",
+    "description": "The Red Hot Chili Peppers return to Dallas for a night of energetic rock 'n' roll. Get ready to groove to their iconic hits!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Pop",
+    "artist": "Beyoncé",
+    "date": "2023-09-25",
+    "time": "19:30",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "Queen Beyoncé takes the stage for a show-stopping performance. Brace yourself for an evening of incredible talent and mesmerizing visuals."
+  },
+  {
+    "ticket_cost": 85,
+    "genre": "Country",
+    "artist": "Carrie Underwood",
+    "date": "2023-10-05",
+    "time": "20:00",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "description": "Carrie Underwood brings her powerful vocals and heartfelt country songs to Nashville. Get ready to be moved by her incredible talent."
+  },
+  {
+    "ticket_cost": 120,
+    "genre": "Hip Hop",
+    "artist": "Travis Scott",
+    "date": "2023-10-15",
+    "time": "21:00",
+    "venue": "United Center",
+    "city": "Chicago",
+    "description": "Travis Scott's high-energy performance and mind-blowing stage production will leave you breathless. Don't miss this hip hop extravaganza!"
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Rock",
+    "artist": "Queen + Adam Lambert",
+    "date": "2023-10-20",
+    "time": "20:00",
+    "venue": "The Forum",
+    "city": "Inglewood",
+    "description": "Queen and Adam Lambert join forces for a legendary concert experience. Hear the iconic hits of Queen performed live with Adam Lambert's stunning vocals."
+  },
+  {
+    "ticket_cost": 45,
+    "genre": "Pop",
+    "artist": "Dua Lipa",
+    "date": "2023-11-02",
+    "time": "19:30",
+    "venue": "Rogers Place",
+    "city": "Edmonton",
+    "description": "Dua Lipa's infectious pop tunes and energetic stage presence will have you dancing all night long. Get ready for a party you won't forget!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Country",
+    "artist": "Blake Shelton",
+    "date": "2023-11-10",
+    "time": "20:00",
+    "venue": "T-Mobile Arena",
+    "city": "Las Vegas",
+    "description": "Blake Shelton brings his country charm and chart-topping hits to Las Vegas. It's going to be a night of unforgettable country music!"
+  },
+  {
+    "ticket_cost": 95,
+    "genre": "Hip Hop",
+    "artist": "Post Malone",
+    "date": "2023-11-20",
+    "time": "21:00",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "description": "Post Malone's unique blend of hip hop, pop, and rock will take the stage by storm. Prepare for an electric performance!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Rock",
+    "artist": "Guns N' Roses",
+    "date": "2023-12-05",
+    "time": "20:00",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "Guns N' Roses reunites for an explosive rock show. Experience the iconic sound that defined a generation."
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Pop",
+    "artist": "Justin Bieber",
+    "date": "2023-12-15",
+    "time": "19:30",
+    "venue": "Staples Center",
+    "city": "Los Angeles",
+    "description": "Justin Bieber brings his smooth vocals and infectious pop hits to the Staples Center. Get ready for a night of Bieber fever!"
+  },
+  {
+    "ticket_cost": 90,
+    "genre": "Country",
+    "artist": "Miranda Lambert",
+    "date": "2024-01-02",
+    "time": "19:00",
+    "venue": "BOK Center",
+    "city": "Tulsa",
+    "description": "Miranda Lambert's heartfelt lyrics and powerful voice will leave you moved. Don't miss this incredible country music experience!"
+  },
+  {
+    "ticket_cost": 150,
+    "genre": "Hip Hop",
+    "artist": "Jay-Z",
+    "date": "2024-01-10",
+    "time": "20:30",
+    "venue": "Barclays Center",
+    "city": "Brooklyn",
+    "description": "Jay-Z takes the stage for a night of hip hop brilliance. Witness the lyrical genius and impeccable flow of one of the greatest rappers of all time."
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Rock",
+    "artist": "Muse",
+    "date": "2024-01-15",
+    "time": "21:00",
+    "venue": "Rogers Arena",
+    "city": "Vancouver",
+    "description": "Muse's atmospheric rock sound and electrifying stage presence create an otherworldly concert experience. Don't miss this epic performance!"
+  },
+  {
+    "ticket_cost": 65,
+    "genre": "Pop",
+    "artist": "Rihanna",
+    "date": "2024-01-25",
+    "time": "20:00",
+    "venue": "Amway Center",
+    "city": "Orlando",
+    "description": "Rihanna's powerful vocals and infectious pop beats will have you dancing in the aisles. Get ready for a night of non-stop hits!"
+  },
+  {
+    "ticket_cost": 75,
+    "genre": "Country",
+    "artist": "Jason Aldean",
+    "date": "2024-02-05",
+    "time": "19:30",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "description": "Jason Aldean brings his high-energy country show to Nashville. Get ready to sing along to his chart-topping hits!"
+  },
+  {
+    "ticket_cost": 120,
+    "genre": "Hip Hop",
+    "artist": "Eminem",
+    "date": "2024-02-15",
+    "time": "21:00",
+    "venue": "Ford Field",
+    "city": "Detroit",
+    "description": "Eminem's rapid-fire rhymes and raw emotion make for an unforgettable hip hop experience. Prepare for a night of intense energy!"
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Rock",
+    "artist": "The Rolling Stones",
+    "date": "2024-02-20",
+    "time": "20:00",
+    "venue": "Hard Rock Stadium",
+    "city": "Miami",
+    "description": "The Rolling Stones prove that rock 'n' roll never gets old. Witness their timeless hits and legendary stage presence."
+  },
+  {
+    "ticket_cost": 45,
+    "genre": "Pop",
+    "artist": "Billie Eilish",
+    "date": "2024-03-02",
+    "time": "19:30",
+    "venue": "Rogers Place",
+    "city": "Edmonton",
+    "description": "Billie Eilish's haunting vocals and unique sound will transport you to another dimension. Don't miss this rising pop superstar!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Country",
+    "artist": "Florida Georgia Line",
+    "date": "2024-03-10",
+    "time": "20:00",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "description": "Florida Georgia Line brings their signature country sound and infectious energy to Nashville. Get ready to party!"
+  },
+  {
+    "ticket_cost": 95,
+    "genre": "Hip Hop",
+    "artist": "Kanye West",
+    "date": "2024-03-20",
+    "time": "21:00",
+    "venue": "United Center",
+    "city": "Chicago",
+    "description": "Kanye West's boundary-pushing music and mesmerizing stage performances will leave you in awe. Experience the genius of Kanye live."
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Rock",
+    "artist": "Green Day",
+    "date": "2024-03-25",
+    "time": "21:00",
+    "venue": "American Airlines Center",
+    "city": "Dallas",
+    "description": "Green Day's punk rock anthems and high-octane performances will have you rocking out all night. Get ready for an unforgettable show!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Pop",
+    "artist": "Lady Gaga",
+    "date": "2024-04-02",
+    "time": "19:30",
+    "venue": "T-Mobile Arena",
+    "city": "Las Vegas",
+    "description": "Lady Gaga's theatrical performances and powerful vocals will take your breath away. Witness the artistry of Gaga live!"
+  },
+  {
+    "ticket_cost": 150,
+    "genre": "Country",
+    "artist": "George Strait",
+    "date": "2024-04-10",
+    "time": "20:30",
+    "venue": "AT&T Stadium",
+    "city": "Arlington",
+    "description": "George Strait, the king of country, returns for a night of classic hits and pure country magic. Don't miss this legendary performance!"
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Hip Hop",
+    "artist": "Cardi B",
+    "date": "2024-04-15",
+    "time": "21:00",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "Cardi B brings her fierce attitude and chart-topping hits to Toronto. Get ready for a night of rap like no other!"
+  },
+  {
+    "ticket_cost": 65,
+    "genre": "Rock",
+    "artist": "AC/DC",
+    "date": "2024-04-25",
+    "time": "20:00",
+    "venue": "Etihad Stadium",
+    "city": "Manchester",
+    "description": "AC/DC's thunderous rock 'n' roll will shake the stadium. Prepare for a night of headbanging and air guitar solos!"
+  },
+  {
+    "ticket_cost": 75,
+    "genre": "Pop",
+    "artist": "Katy Perry",
+    "date": "2024-05-02",
+    "time": "19:30",
+    "venue": "Moda Center",
+    "city": "Portland",
+    "description": "Katy Perry's catchy pop tunes and vibrant stage production create a colorful and energetic concert experience. Get ready to sing along!"
+  },
+  {
+    "ticket_cost": 90,
+    "genre": "Country",
+    "artist": "Eric Church",
+    "date": "2024-05-10",
+    "time": "20:00",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "description": "Eric Church's gritty vocals and heartfelt lyrics will take you on an emotional country music journey. Don't miss this incredible show!"
+  },
+  {
+    "ticket_cost": 120,
+    "genre": "Hip Hop",
+    "artist": "J. Cole",
+    "date": "2024-05-20",
+    "time": "21:00",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "description": "J. Cole's introspective lyrics and powerful stage presence make for an unforgettable hip hop experience. Brace yourself for a night of thought-provoking rap."
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Rock",
+    "artist": "Foo Fighters",
+    "date": "2024-05-25",
+    "time": "21:00",
+    "venue": "Rogers Arena",
+    "city": "Vancouver",
+    "description": "The Foo Fighters return with their high-energy rock performance. Get ready to rock out to their iconic hits!"
+  },
+  {
+    "ticket_cost": 45,
+    "genre": "Pop",
+    "artist": "Selena Gomez",
+    "date": "2024-06-02",
+    "time": "19:30",
+    "venue": "Air Canada Centre",
+    "city": "Toronto",
+    "description": "Selena Gomez's captivating vocals and heartfelt pop tunes will have you singing along. Don't miss this incredible performance!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Country",
+    "artist": "Tim McGraw",
+    "date": "2024-06-10",
+    "time": "20:00",
+    "venue": "BOK Center",
+    "city": "Tulsa",
+    "description": "Tim McGraw brings his soulful country sound and heartfelt lyrics to Tulsa. Get ready for a night of country music at its finest!"
+  },
+  {
+    "ticket_cost": 95,
+    "genre": "Hip Hop",
+    "artist": "Drake",
+    "date": "2024-06-20",
+    "time": "21:00",
+    "venue": "Scotiabank Arena",
+    "city": "Toronto",
+    "description": "Drake, the Canadian rap superstar, returns to his hometown for a show-stopping performance. Experience the hits that took the world by storm!"
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Rock",
+    "artist": "Pearl Jam",
+    "date": "2024-06-25",
+    "time": "20:00",
+    "venue": "KeyArena",
+    "city": "Seattle",
+    "description": "Pearl Jam's grunge rock sound and impassioned performances will leave you wanting more. Don't miss this iconic band in action!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Pop",
+    "artist": "Ariana Grande",
+    "date": "2024-07-02",
+    "time": "19:30",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "description": "Ariana Grande's powerful vocals and infectious pop hits will have you singing along all night. Get ready for a night of pure pop perfection!"
+  },
+  {
+    "ticket_cost": 150,
+    "genre": "Country",
+    "artist": "Luke Bryan",
+    "date": "2024-07-10",
+    "time": "20:30",
+    "venue": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "description": "Luke Bryan brings his high-energy country show to Atlanta. Get ready to dance and sing along to his chart-topping hits!"
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Hip Hop",
+    "artist": "Migos",
+    "date": "2024-07-15",
+    "time": "21:00",
+    "venue": "American Airlines Center",
+    "city": "Dallas",
+    "description": "Migos' infectious beats and catchy rap verses will have you moving to the rhythm. Don't miss this hip hop trio in action!"
+  },
+  {
+    "ticket_cost": 65,
+    "genre": "Rock",
+    "artist": "The Killers",
+    "date": "2024-07-25",
+    "time": "20:00",
+    "venue": "T-Mobile Arena",
+    "city": "Las Vegas",
+    "description": "The Killers' anthemic rock sound and electrifying performances will have you singing at the top of your lungs. Get ready for an unforgettable night!"
+  },
+  {
+    "ticket_cost": 75,
+    "genre": "Pop",
+    "artist": "Taylor Swift",
+    "date": "2024-08-02",
+    "time": "19:30",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "Taylor Swift's emotional lyrics and captivating stage presence will take you on a journey through love and heartbreak. Don't miss this pop superstar!"
+  },
+  {
+    "ticket_cost": 90,
+    "genre": "Country",
+    "artist": "Keith Urban",
+    "date": "2024-08-10",
+    "time": "20:00",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "description": "Keith Urban's soulful voice and incredible guitar skills create a country music experience like no other. Get ready for a night of unforgettable music!"
+  },
+  {
+    "ticket_cost": 120,
+    "genre": "Hip Hop",
+    "artist": "Travis Scott",
+    "date": "2024-08-20",
+    "time": "21:00",
+    "venue": "United Center",
+    "city": "Chicago",
+    "description": "Travis Scott's high-energy performances and unique rap style will leave you in awe. Brace yourself for a night of pure excitement!"
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Rock",
+    "artist": "Red Hot Chili Peppers",
+    "date": "2024-08-25",
+    "time": "21:00",
+    "venue": "Rogers Arena",
+    "city": "Vancouver",
+    "description": "Red Hot Chili Peppers' funky rock sound and infectious energy will have you dancing from start to finish. Get ready for a wild ride!"
+  },
+  {
+    "ticket_cost": 45,
+    "genre": "Pop",
+    "artist": "Dua Lipa",
+    "date": "2024-09-02",
+    "time": "19:30",
+    "venue": "Bell Centre",
+    "city": "Montreal",
+    "description": "Dua Lipa's sultry vocals and irresistible pop beats will have you grooving all night. Don't miss this rising pop sensation!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Country",
+    "artist": "Carrie Underwood",
+    "date": "2024-09-10",
+    "time": "20:00",
+    "venue": "BOK Center",
+    "city": "Tulsa",
+    "description": "Carrie Underwood's powerful voice and captivating stage presence will leave you in awe. Experience the magic of country music!"
+  },
+  {
+    "ticket_cost": 95,
+    "genre": "Hip Hop",
+    "artist": "Post Malone",
+    "date": "2024-09-20",
+    "time": "21:00",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "description": "Post Malone's unique blend of hip hop, pop, and rock will take the stage by storm. Prepare for an electric performance!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Rock",
+    "artist": "Guns N' Roses",
+    "date": "2024-09-25",
+    "time": "20:00",
+    "venue": "Rogers Centre",
+    "city": "Toronto",
+    "description": "Guns N' Roses reunites for an explosive rock show. Experience the iconic sound that defined a generation."
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Pop",
+    "artist": "Justin Bieber",
+    "date": "2024-10-02",
+    "time": "19:30",
+    "venue": "Staples Center",
+    "city": "Los Angeles",
+    "description": "Justin Bieber brings his smooth vocals and infectious pop hits to the Staples Center. Get ready for a night of Bieber fever!"
+  },
+  {
+    "ticket_cost": 90,
+    "genre": "Country",
+    "artist": "Miranda Lambert",
+    "date": "2024-10-10",
+    "time": "19:00",
+    "venue": "BOK Center",
+    "city": "Tulsa",
+    "description": "Miranda Lambert's heartfelt lyrics and powerful voice will captivate your soul. Don't miss this country music powerhouse!"
+  },
+  {
+    "ticket_cost": 150,
+    "genre": "Hip Hop",
+    "artist": "Jay-Z",
+    "date": "2024-10-20",
+    "time": "21:00",
+    "venue": "Barclays Center",
+    "city": "Brooklyn",
+    "description": "Jay-Z, the rap icon, returns to his hometown for an unforgettable performance. Witness the legend in action!"
+  },
+  {
+    "ticket_cost": 55,
+    "genre": "Rock",
+    "artist": "Foo Fighters",
+    "date": "2024-10-25",
+    "time": "20:00",
+    "venue": "TD Garden",
+    "city": "Boston",
+    "description": "The Foo Fighters' energetic rock anthems will have you headbanging all night. Get ready for an adrenaline-fueled concert experience!"
+  },
+  {
+    "ticket_cost": 70,
+    "genre": "Pop",
+    "artist": "Rihanna",
+    "date": "2024-11-02",
+    "time": "19:30",
+    "venue": "Prudential Center",
+    "city": "Newark",
+    "description": "Rihanna's powerful vocals and infectious pop beats will have you dancing in the aisles. Don't miss this pop diva's electrifying performance!"
+  },
+  {
+    "ticket_cost": 95,
+    "genre": "Country",
+    "artist": "Blake Shelton",
+    "date": "2024-11-10",
+    "time": "20:00",
+    "venue": "American Airlines Center",
+    "city": "Dallas",
+    "description": "Blake Shelton's smooth country sound and heartfelt lyrics will tug at your heartstrings. Experience the charm of this country superstar!"
+  },
+  {
+    "ticket_cost": 80,
+    "genre": "Hip Hop",
+    "artist": "Lil Baby",
+    "date": "2024-11-20",
+    "time": "21:00",
+    "venue": "State Farm Arena",
+    "city": "Atlanta",
+    "description": "Lil Baby's rapid-fire flow and infectious beats will have you grooving all night. Prepare for a night of hip hop heat!"
+  },
+  {
+    "ticket_cost": 60,
+    "genre": "Rock",
+    "artist": "Coldplay",
+    "date": "2024-11-25",
+    "time": "21:00",
+    "venue": "Wembley Stadium",
+    "city": "London",
+    "description": "Coldplay's atmospheric rock sound and mesmerizing visuals will transport you to another world. Get ready for an epic concert experience!"
+  },
+  {
+    "ticket_cost": 45,
+    "genre": "Pop",
+    "artist": "Beyoncé",
+    "date": "2024-12-02",
+    "time": "19:30",
+    "venue": "Principality Stadium",
+    "city": "Cardiff",
+    "description": "Beyoncé's powerhouse vocals and fierce stage presence will leave you in awe. Witness the queen of pop in all her glory!"
+  }
+]
